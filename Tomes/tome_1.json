@@ -1,0 +1,224 @@
+{
+  "Level1": [
+    {
+      "name": "BRING THE LIGHT",
+      "description": "Repair a total of 2 generator(s).",
+      "progress": 2,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "GRUESOME",
+      "description": "Hook 8 Survivor(s).",
+      "progress": 8,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SAVIOR",
+      "description": "Unhook 2 Survivor(s). Must unhook them safely.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SCRAP YARD",
+      "description": "Damage 6 generator(s).",
+      "progress": 6,
+      "reward": 15000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "MECHANICAL OBSESSION",
+      "description": "Damage the same generator 2 times.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BRUTAL BREAKER",
+      "description": "Damage a generator or destroy a dropped pallet 5 time(s) while using the perk Brutal Strength.",
+      "progress": 2,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Brutal Strength"
+    },
+    {
+      "name": "HUNGRY JAWS",
+      "description": "Catch a Survivor in a Bear Trap 2 time(s) as The Trapper.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Trapper",
+      "perk": ""
+    },
+    {
+      "name": "PATCHED UP",
+      "description": "Completely heal 4 health state(s) of any Survivor.",
+      "progress": 4,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BLOODY REWARDS",
+      "description": "Earn 50 000 Bloodpoints.",
+      "progress": 50000,
+      "reward": 15000,
+      "isKiller": 2,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "THE LAST PLACE YOU LOOK",
+      "description": "Unlock 5 chest(s).",
+      "progress": 5,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "PLUNDER KING",
+      "description": "Unlock 3 chest(s) while using the perk Plunderer's Instinct.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Plunderer's Instinct"
+    },
+    {
+      "name": "LIBERATOR",
+      "description": "Unhook 5 Survivor(s). Must unhook them safely.",
+      "progress": 5,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "DARK TRIUMPH",
+      "description": "Sacrifice 1 Survivor(s) during the Endgame Collapse.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SKILLED OPERATOR",
+      "description": "Succeed at 20 Skill Check(s).",
+      "progress": 20,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "THIS IS HAPPENING",
+      "description": "Get a Great result on 3 Skill Check(s) while using the perk This Is Not Happening.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "This Is Not Happening"
+    },
+    {
+      "name": "CLAUDETTE'S DETERMINATION",
+      "description": "As Claudette Morel, escape a trial.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "Claudette Morel",
+      "perk": ""
+    },
+    {
+      "name": "AMATEUR ORNITHOLOGIST",
+      "description": "Disturb 25 crows.",
+      "progress": 25,
+      "reward": 15000,
+      "isKiller": 2,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "CRAFT TIME'S OVER",
+      "description": "Cleanse 8 Totem(s).",
+      "progress": 8,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "REVERENT",
+      "description": "Sacrifice 5 Survivor(s) to The Entity.",
+      "progress": 5,
+      "reward": 15000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "NONE SHALL SURVIVE",
+      "description": "Kill all Survivors in a trial 1 time(s) by any means.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "EMPATHIC",
+      "description": "Completely heal 2 health state(s) of any Survivor while using the perk Empathy.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Empathy"
+    }
+  ],
+
+  "Level2": [
+
+  ],
+  "Level3": [
+
+  ],
+  "Level4": [
+
+  ]
+}
