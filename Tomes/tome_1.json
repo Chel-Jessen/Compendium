@@ -213,8 +213,188 @@
   ],
 
   "Level2": [
-
+    {
+      "name": "AGITATED ADVANTAGE",
+      "description": "Hook 2 Survivor(s) in the basement while using the perk Agitation.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Agitation"
+    },
+    {
+      "name": "GOLDEN AGE",
+      "description": "Earn 20 emblem(s) of Gold quality or better.",
+      "progress": 20,
+      "reward": 25000,
+      "isKiller": 2,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "REVERENT",
+      "description": "Sacrifice 13 Survivor(s) to The Entity.",
+      "progress": 13,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ENLIGHTENED",
+      "description": "Blind the Killer 2 time(s).",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SELF CARE SERVICE",
+      "description": "Completely heal yourself for 2 health state(s) while using the perk Self-Care.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Self-Care"
+    },
+    {
+      "name": "GOT YOU",
+      "description": "Interrupt and grab 1 Survivor(s).",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "MANIFEST DISTRESS",
+      "description": "Chase Survivors for a total of 90 second(s) while using the perk Distressing.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Distressing"
+    },
+    {
+      "name": "BY ANY MEANS NECESSARY",
+      "description": "Drop 15 pallet(s) while being chased by the Killer.",
+      "progress": 15,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "FIGHT BACK",
+      "description": "Drop a pallet to stun the Killer 2 time(s).",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BLOODY REWARDS",
+      "description": "Earn 200 000 Bloodpoints.",
+      "progress": 200000,
+      "reward": 25000,
+      "isKiller": 2,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "HUNGRY JAWS",
+      "description": "Catch a Survivor in a Bear Trap 4 time(s) as The Trapper.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Trapper",
+      "perk": ""
+    },
+    {
+      "name": "APPEAL TO HEAL",
+      "description": "Fully deplete 6 Med-kit(s).",
+      "progress": 6,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "GENEROSITY",
+      "description": "Heal a total of 10 health state(s) of other Survivors.",
+      "progress": 10,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "DARK SENSES",
+      "description": "Finish repairing 3 generator(s) while using the perk Dark Sense.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Dark Sense"
+    },
+    {
+      "name": "LIBERATOR",
+      "description": "Unhook 10 Survivor(s). Must unhook them safely.",
+      "progress": 10,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BOTANIST EXTRAORDINAIRE",
+      "description": "Finish healing 2 health state(s) of other Survivors while using the perk Botany Knowledge and a Med-kit.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Botany Knowledge"
+    },
+    {
+      "name": "BRING THE LIGHT",
+      "description": "Repair a total of 10 generator(s).",
+      "progress": 10,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "PAID IN FULL",
+      "description": "Unhook a Survivor who unhooked you earlier in the trial 1 time(s). Must unhook them safely.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    }
   ],
+
   "Level3": [
 
   ],
