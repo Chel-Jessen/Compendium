@@ -396,8 +396,208 @@
   ],
 
   "Level3": [
-
+    {
+      "name": "PROPERTY DAMAGE",
+      "description": "Damage a generator or destroy a dropped pallet 30 time(s).",
+      "progress": 30,
+      "reward": 30000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BURIED UNDERGROUND",
+      "description": "Hook 5 Survivor(s) in the basement.",
+      "progress": 5,
+      "reward": 30000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "YOU, YES, YOU",
+      "description": "Hook the Obsession 2 time(s).",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "NO ONE ESCAPES THE ENDGAME",
+      "description": "Sacrifice 2 Survivor(s) during the Endgame Collapse while using the perk Hex: No One Escapes Death.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Hex: No One Escapes Death"
+    },
+    {
+      "name": "LIBERATOR",
+      "description": "Unhook 15 Survivor(s). Must unhook them safely.",
+      "progress": 15,
+      "reward": 30000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "HUNGRY JAWS",
+      "description": "Catch a Survivor in a Bear trap 5 time(s) as The Trapper.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Trapper",
+      "perk": ""
+    },
+    {
+      "name": "MONSTROUS MAYHEM",
+      "description": "Hook a Survivor in the basement while another Survivor is on a basement hook 1 time(s) while using the per Scourge Hook: Monstrous Shrine.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Scourge Hook: Monstrous Shrine"
+    },
+    {
+      "name": "GOT YOU",
+      "description": "Interrupt and grab 2 Survivor(s).",
+      "progress": 2,
+      "reward": 30000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "LAST MINUTE HERO",
+      "description": "Unhook 1 Survivor(s) after the Endgame Collapse has begun. Must unhook them safely.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "HOPE IS ALL WE HAVE",
+      "description": "Escape 1 trial(s) through the exit gate while using the perk Hope.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Hope"
+    },
+    {
+      "name": "IRIDESCENT AGE",
+      "description": "Earn 15 emblem(s) of Iridescent quality.",
+      "progress": 15,
+      "reward": 30000,
+      "isKiller": 2,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "OBSESSIVE",
+      "description": "Kill the Obsession 4 time(s) by any means.",
+      "progress": 4,
+      "reward": 30000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "UNNERVING ENCOUNTER",
+      "description": "Prevent any exit gates from being opened while using the perk Unnerving Presence. Do this 1 time(s).",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Unnerving Presence"
+    },
+    {
+      "name": "BLINDSIDED",
+      "description": "Blind the Killer 4 time(s).",
+      "progress": 4,
+      "reward": 30000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "LIFE GIVER",
+      "description": "Heal a total of 5 health state(s) of any Survivor.",
+      "progress": 5,
+      "reward": 30000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ALL BETTER!",
+      "description": "Completely heal 3 health state(s) of any Survivor.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "DECISIVE LIGHT",
+      "description": "Blind the Killer while they are carrying a Survivor 1 time(s).",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "LOCKED & FOUND",
+      "description": "Fully deplete 3 key(s).",
+      "progress": 3,
+      "reward": 30000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ESCAPE ARTIST",
+      "description": "Escape 5 trial(s).",
+      "progress": 5,
+      "reward": 30000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "CHILLING ESCAPE",
+      "description": "Escape a trial without being hooked by the killer while using the perk Spine Chill.",
+      "progress": 1,
+      "reward": 50000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Spine Chill"
+    }
   ],
+
   "Level4": [
 
   ]
