@@ -1,0 +1,234 @@
+{
+  "Level1": [
+    {
+      "name": "PROTECT FOREVER",
+      "description": "Unhook a Survivor safely or take a protection hit 4 time(s) while using the perk We're Gonna Live Forever.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "We're Gonna Live Forever"
+    },
+    {
+      "name": "POISED PERFORMANCE",
+      "description": "Finish repairing 1 generator(s) and escape the trial while using the perk Poised.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Poised"
+    },
+    {
+      "name": "JANE'S VICTORY",
+      "description": "Stun the Killer 1 time(s) as Jane Romero.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "Jane Romero",
+      "perk": ""
+    },
+    {
+      "name": "CRAFT TIME'S OVER",
+      "description": "Cleanse 12 Totem(s).",
+      "progress": 12,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "DAVID'S PROTECTION",
+      "description": "Take 1 protection hit(s) as David King.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "David King",
+      "perk": ""
+    },
+    {
+      "name": "SHINING LIGHT",
+      "description": "Earn 5 Lightbringer emblem(s) of Bronze quality or better.",
+      "progress": 5,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "LIBERATOR",
+      "description": "Unhook 5 Survivor(s). Must unhook them safely.",
+      "progress": 5,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "GO FOR BROKE",
+      "description": "Sabotage 10 hook(s).",
+      "progress": 10,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "THE LAST PLACE YOU LOOK",
+      "description": "Unlock 6 chest(s).",
+      "progress": 6,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ESCAPE ARTIST",
+      "description": "Escape 2 trial(s).",
+      "progress": 2,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ADRENALINE OVERFLOW",
+      "description": "Take 1 hit(s) while affected by the Endurance status effect while using the perk Dead Hard.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Dead Hard"
+    },
+    {
+      "name": "SPILLING BLOOD",
+      "description": "Earn 5 Devout emblem(s) of Bronze quality or better.",
+      "progress": 5,
+      "reward": 15000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "GRUESOME",
+      "description": "Hook 20 Survivor(s).",
+      "progress": 20,
+      "reward": 15000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BRONZE AGE",
+      "description": "Earn 15 emblem(s) of Bronze quality or better.",
+      "progress": 15,
+      "reward": 15000,
+      "isKiller": 2,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BRING THE LIGHT",
+      "description": "Repair a total of 4 generator(s).",
+      "progress": 4,
+      "reward": 15000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SILVER HERO",
+      "description": "Earn 2 emblems of Silver quality or better as a Survivor.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "TAKE CHARGE",
+      "description": "Damage 4 generator(s) while using the perk Overcharge.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Overcharge"
+    },
+    {
+      "name": "SEALED SHUT",
+      "description": "Close the Hatch 1 time(s).",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "EXECUTION",
+      "description": "Kill 10 Survivor(s) by nay means.",
+      "progress": 10,
+      "reward": 15000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SILVER BLADE",
+      "description": "Earn 2 emblems of Silver quality or better as a Killer.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "MAD ABOUT YOU",
+      "description": "Inflict Madness I on 2 different Survivor(s) as The Doctor.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Doctor",
+      "perk": ""
+    },
+    {
+      "name": "PHASE WARRIOR",
+      "description": "Hit a Survivor after emerging from phasing 1 time(s) as The Spirit.",
+      "progress": 1,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Spirit",
+      "perk": ""
+    }
+  ],
+
+  "Level2": [
+
+  ],
+  "Level3": [
+
+  ],
+  "Level4": [
+
+  ]
+}
