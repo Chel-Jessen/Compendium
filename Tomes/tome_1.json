@@ -599,6 +599,155 @@
   ],
 
   "Level4": [
-
+    {
+      "name": "BRING THE LIGHT",
+      "description": "Repair a total of 15 generator(s).",
+      "progress": 15,
+      "reward": 45000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "THIS IS HAPPENING",
+      "description": "Get a Great result on 6 Skill Check(s) while using the perk This Is Not Happening.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "This Is Not Happening"
+    },
+    {
+      "name": "THE LAST PLACE YOU LOOK",
+      "description": "Unlock 12 chest(s).",
+      "progress": 12,
+      "reward": 45000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "DARK SENSES",
+      "description": "Finish repairing 4 generator(s) while using the perk Dark Sense.",
+      "progress": 4,
+      "reward": 60000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Dark Sense"
+    },
+    {
+      "name": "LIFE GIVER",
+      "description": "Heal a total of 10 health state(s) of any Survivor.",
+      "progress": 10,
+      "reward": 45000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "FIGHT BACK",
+      "description": "Drop a pallet to stun the Killer 4 time(s).",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "CLAUDETTE'S DETERMINATION",
+      "description": "Escape 1 trial(s) as Claudette Morel.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "Claudette Morel",
+      "perk": ""
+    },
+    {
+      "name": "HUNGRY JAWS",
+      "description": "Catch a Survivor in a Bear Trap 6 time(s) as The Trapper.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Trapper",
+      "perk": ""
+    },
+    {
+      "name": "SIX FEET UNDER",
+      "description": "Sacrifice 4 Survivor(s) in the basement.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BLOODY GOOD",
+      "description": "Hit a Survivor with your weapon 25 time(s).",
+      "progress": 25,
+      "reward": 45000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "MECHANICAL OBSESSION",
+      "description": "Damage the same generator 4 times.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "GOT YOU",
+      "description": "Interrupt and grab 3 Survivor(s).",
+      "progress": 3,
+      "reward": 45000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "BRUTAL BREAKER",
+      "description": "Damage a generator or destroy a dropped pallet 8 time(s) while using the perk Brutal Strength.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Brutal Strength"
+    },
+    {
+      "name": "DARKLY OBSESSED",
+      "description": "Hook the Obsession 10 time(s).",
+      "progress": 10,
+      "reward": 45000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "AGITATED ADVANTAGE",
+      "description": "Hook 5 Survivor(s) in the basement while using the perk Agitation.",
+      "progress": 1,
+      "reward": 60000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Agitation"
+    }
   ]
 }
