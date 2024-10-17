@@ -223,8 +223,228 @@
   ],
 
   "Level2": [
-
+    {
+      "name": "THE SHIELD",
+      "description": "Take 2 protection hit(s).",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "NO MITHER, NO PROBLEM",
+      "description": "Escape 1 trial(s) while using the perk No Mither.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "No Mither"
+    },
+    {
+      "name": "KING'S ESCAPE",
+      "description": "Escape 1 trial(s) as David King.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "David King",
+      "perk": ""
+    },
+    {
+      "name": "BRING THE LIGHT",
+      "description": "Repair a total of 10 Generator(s).",
+      "progress": 10,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "FEARLESS",
+      "description": "Earn 5 Evader emblem(s) of Silver quality or better.",
+      "progress": 5,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ESCAPE ARTIST",
+      "description": "Escape 4 trial(s).",
+      "progress": 4,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "WHATEVER IT TAKES",
+      "description": "Stun he Killer 4 time(s).",
+      "progress": 4,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "LIBERATOR",
+      "description": "Unhook 8 Survivor(s). Must unhook them safely.",
+      "progress": 8,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ROMERO'S ESCAPE",
+      "description": "Escape 1 trial(s) as Jane Romero.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "Jane Romero",
+      "perk": ""
+    },
+    {
+      "name": "TERRIFIED",
+      "description": "Make the Survivors scream 10 time(s).",
+      "progress": 10,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "HEAD ON COLLISION",
+      "description": "Stun the Killer by exiting a locker with Head On 1 time(s).",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "EXPLORER",
+      "description": "Mark 5 objects with Maps.",
+      "progress": 5,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ESCAPE ROUTE",
+      "description": "Escape 3 chase(s).",
+      "progress": 3,
+      "reward": 25000,
+      "isKiller": 0,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "DARK ADHERENT",
+      "description": "Hook 5 Survivor(s)",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "MAD ABOUT YOU",
+      "description": "Inflict Madness I on 4 different Survivor(s) as The Doctor.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "The Doctor",
+      "perk": ""
+    },
+    {
+      "name": "ABUSIVE TREATMENT",
+      "description": "Chase 4 different Survivors while using the perk Monitor & Abuse.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Monitor & Abuse"
+    },
+    {
+      "name": "THE HUNT",
+      "description": "Earn 5 Chaser emblem(s) of Silver quality or better.",
+      "progress": 5,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "SILVER AGE",
+      "description": "Earn 15 emblem(s) of Silver quality or better.",
+      "progress": 15,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": false,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "ELEVENTH HOUR",
+      "description": "Sacrifice 2 Survivor(s) during the Endgame Collapse.",
+      "progress": 2,
+      "reward": 25000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    },
+    {
+      "name": "RANCOR RAMPAGE",
+      "description": "Kill the Obsession with your hands 1 time(s) while using the perk Rancor.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Rancor"
+    },
+    {
+      "name": "FURIOUS DESTRUCTION",
+      "description": "Break 4 pallet(s) while using the perk Spirit Fury.",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": "Spirit Fury"
+    },
+    {
+      "name": "HAUNTING GRASP",
+      "description": "Interrupt and grab 1 Survivor(s).",
+      "progress": 1,
+      "reward": 35000,
+      "isKiller": 1,
+      "isSingleTrial": true,
+      "character": "",
+      "perk": ""
+    }
   ],
+
   "Level3": [
 
   ],
