@@ -9,8 +9,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "We're Gonna Live Forever",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "POISED PERFORMANCE",
@@ -21,8 +20,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Poised",
-      "item": "",
-      "env": "Generator"
+      "item": ""
     },
     {
       "name": "JANE'S VICTORY",
@@ -33,8 +31,7 @@
       "isSingleTrial": true,
       "character": "Jane Romero",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "CRAFT TIME'S OVER",
@@ -45,8 +42,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": "Totem"
+      "item": ""
     },
     {
       "name": "DAVID'S PROTECTION",
@@ -57,8 +53,7 @@
       "isSingleTrial": true,
       "character": "David King",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "SHINING LIGHT",
@@ -69,8 +64,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "LIBERATOR",
@@ -81,8 +75,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "GO FOR BROKE",
@@ -93,8 +86,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": "Hook"
+      "item": ""
     },
     {
       "name": "THE LAST PLACE YOU LOOK",
@@ -105,8 +97,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": "Chest"
+      "item": ""
     },
     {
       "name": "ESCAPE ARTIST",
@@ -117,8 +108,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "ADRENALINE OVERFLOW",
@@ -129,8 +119,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Dead Hard",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "SPILLING BLOOD",
@@ -141,8 +130,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "GRUESOME",
@@ -153,8 +141,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "BRONZE AGE",
@@ -165,8 +152,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "BRING THE LIGHT",
@@ -177,8 +163,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": "Generator"
+      "item": ""
     },
     {
       "name": "SILVER HERO",
@@ -189,8 +174,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "TAKE CHARGE",
@@ -201,8 +185,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Overcharge",
-      "item": "",
-      "env": "Generator"
+      "item": ""
     },
     {
       "name": "SEALED SHUT",
@@ -213,8 +196,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": "Hatch"
+      "item": ""
     },
     {
       "name": "EXECUTION",
@@ -225,8 +207,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "SILVER BLADE",
@@ -237,8 +218,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "MAD ABOUT YOU",
@@ -249,8 +229,7 @@
       "isSingleTrial": true,
       "character": "The Doctor",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "PHASE WARRIOR",
@@ -261,8 +240,7 @@
       "isSingleTrial": true,
       "character": "The Spirit",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     }
   ],
 
@@ -276,8 +254,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "NO MITHER, NO PROBLEM",
@@ -288,8 +265,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "No Mither",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "KING'S ESCAPE",
@@ -300,8 +276,7 @@
       "isSingleTrial": true,
       "character": "David King",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "BRING THE LIGHT",
@@ -312,8 +287,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": "Generator"
+      "item": ""
     },
     {
       "name": "FEARLESS",
@@ -324,8 +298,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "ESCAPE ARTIST",
@@ -336,8 +309,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "WHATEVER IT TAKES",
@@ -348,8 +320,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "LIBERATOR",
@@ -360,8 +331,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "ROMERO'S ESCAPE",
@@ -372,8 +342,7 @@
       "isSingleTrial": true,
       "character": "Jane Romero",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "TERRIFIED",
@@ -384,8 +353,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "HEAD ON COLLISION",
@@ -396,8 +364,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Head On",
-      "item": "",
-      "env": "Locker"
+      "item": ""
     },
     {
       "name": "EXPLORER",
@@ -408,8 +375,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "Map",
-      "env": ""
+      "item": "Map"
     },
     {
       "name": "ESCAPE ROUTE",
@@ -420,8 +386,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "DARK ADHERENT",
@@ -432,8 +397,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "MAD ABOUT YOU",
@@ -444,8 +408,7 @@
       "isSingleTrial": true,
       "character": "The Doctor",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "ABUSIVE TREATMENT",
@@ -456,8 +419,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Monitor & Abuse",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "THE HUNT",
@@ -468,8 +430,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "SILVER AGE",
@@ -480,8 +441,7 @@
       "isSingleTrial": false,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "ELEVENTH HOUR",
@@ -492,8 +452,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "RANCOR RAMPAGE",
@@ -504,8 +463,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Rancor",
-      "item": "",
-      "env": ""
+      "item": ""
     },
     {
       "name": "FURIOUS DESTRUCTION",
@@ -516,8 +474,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "Spirit Fury",
-      "item": "",
-      "env": "Pallet"
+      "item": ""
     },
     {
       "name": "HAUNTING GRASP",
@@ -528,8 +485,7 @@
       "isSingleTrial": true,
       "character": "",
       "perk": "",
-      "item": "",
-      "env": ""
+      "item": ""
     }
   ],
 
