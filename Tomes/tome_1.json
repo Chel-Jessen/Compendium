@@ -8,7 +8,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "GRUESOME",
@@ -18,7 +20,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "SAVIOR",
@@ -28,7 +32,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "SCRAP YARD",
@@ -38,7 +44,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "MECHANICAL OBSESSION",
@@ -48,7 +56,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "BRUTAL BREAKER",
@@ -58,7 +68,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Brutal Strength"
+      "perk": "Brutal Strength",
+      "item": "",
+      "env": "Generator;Pallet"
     },
     {
       "name": "HUNGRY JAWS",
@@ -68,7 +80,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "The Trapper",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "PATCHED UP",
@@ -78,7 +92,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "BLOODY REWARDS",
@@ -88,7 +104,9 @@
       "isKiller": 2,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "THE LAST PLACE YOU LOOK",
@@ -98,7 +116,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Chest"
     },
     {
       "name": "PLUNDER KING",
@@ -108,7 +128,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Plunderer's Instinct"
+      "perk": "Plunderer's Instinct",
+      "item": "",
+      "env": "Chest"
     },
     {
       "name": "LIBERATOR",
@@ -118,7 +140,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "DARK TRIUMPH",
@@ -128,7 +152,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "SKILLED OPERATOR",
@@ -138,7 +164,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "THIS IS HAPPENING",
@@ -148,7 +176,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "This Is Not Happening"
+      "perk": "This Is Not Happening",
+      "item": "",
+      "env": ""
     },
     {
       "name": "CLAUDETTE'S DETERMINATION",
@@ -158,7 +188,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "Claudette Morel",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "AMATEUR ORNITHOLOGIST",
@@ -168,7 +200,9 @@
       "isKiller": 2,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "CRAFT TIME'S OVER",
@@ -178,7 +212,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Totem"
     },
     {
       "name": "REVERENT",
@@ -188,7 +224,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "NONE SHALL SURVIVE",
@@ -198,7 +236,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "EMPATHIC",
@@ -208,7 +248,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Empathy"
+      "perk": "Empathy",
+      "item": "",
+      "env": ""
     }
   ],
 
@@ -221,7 +263,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Agitation"
+      "perk": "Agitation",
+      "item": "",
+      "env": ""
     },
     {
       "name": "GOLDEN AGE",
@@ -231,7 +275,9 @@
       "isKiller": 2,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "REVERENT",
@@ -241,7 +287,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "ENLIGHTENED",
@@ -251,7 +299,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "SELF CARE SERVICE",
@@ -261,7 +311,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Self-Care"
+      "perk": "Self-Care",
+      "item": "",
+      "env": ""
     },
     {
       "name": "GOT YOU",
@@ -271,7 +323,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "MANIFEST DISTRESS",
@@ -281,7 +335,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Distressing"
+      "perk": "Distressing",
+      "item": "",
+      "env": ""
     },
     {
       "name": "BY ANY MEANS NECESSARY",
@@ -291,7 +347,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Pallet"
     },
     {
       "name": "FIGHT BACK",
@@ -301,7 +359,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Pallet"
     },
     {
       "name": "BLOODY REWARDS",
@@ -311,7 +371,9 @@
       "isKiller": 2,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "HUNGRY JAWS",
@@ -321,7 +383,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "The Trapper",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "APPEAL TO HEAL",
@@ -331,7 +395,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "Med-kit",
+      "env": ""
     },
     {
       "name": "GENEROSITY",
@@ -341,7 +407,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "DARK SENSES",
@@ -351,7 +419,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Dark Sense"
+      "perk": "Dark Sense",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "LIBERATOR",
@@ -361,7 +431,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "BOTANIST EXTRAORDINAIRE",
@@ -371,7 +443,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Botany Knowledge"
+      "perk": "Botany Knowledge",
+      "item": "Med-kit",
+      "env": ""
     },
     {
       "name": "BRING THE LIGHT",
@@ -381,7 +455,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "PAID IN FULL",
@@ -391,7 +467,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     }
   ],
 
@@ -404,7 +482,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator;Pallet"
     },
     {
       "name": "BURIED UNDERGROUND",
@@ -414,7 +494,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Basement"
     },
     {
       "name": "YOU, YES, YOU",
@@ -424,7 +506,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "NO ONE ESCAPES THE ENDGAME",
@@ -434,7 +518,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Hex: No One Escapes Death"
+      "perk": "Hex: No One Escapes Death",
+      "item": "",
+      "env": ""
     },
     {
       "name": "LIBERATOR",
@@ -444,7 +530,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "HUNGRY JAWS",
@@ -454,7 +542,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "The Trapper",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "MONSTROUS MAYHEM",
@@ -464,7 +554,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Scourge Hook: Monstrous Shrine"
+      "perk": "Scourge Hook: Monstrous Shrine",
+      "item": "",
+      "env": "Basement"
     },
     {
       "name": "GOT YOU",
@@ -474,7 +566,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "LAST MINUTE HERO",
@@ -484,7 +578,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "HOPE IS ALL WE HAVE",
@@ -494,7 +590,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Hope"
+      "perk": "Hope",
+      "item": "",
+      "env": ""
     },
     {
       "name": "IRIDESCENT AGE",
@@ -504,7 +602,9 @@
       "isKiller": 2,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "OBSESSIVE",
@@ -514,7 +614,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "UNNERVING ENCOUNTER",
@@ -524,7 +626,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Unnerving Presence"
+      "perk": "Unnerving Presence",
+      "item": "",
+      "env": ""
     },
     {
       "name": "BLINDSIDED",
@@ -534,7 +638,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "LIFE GIVER",
@@ -544,7 +650,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "ALL BETTER!",
@@ -554,7 +662,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "DECISIVE LIGHT",
@@ -564,7 +674,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "LOCKED & FOUND",
@@ -574,7 +686,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "Key",
+      "env": ""
     },
     {
       "name": "ESCAPE ARTIST",
@@ -584,7 +698,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "CHILLING ESCAPE",
@@ -594,7 +710,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Spine Chill"
+      "perk": "Spine Chill",
+      "item": "",
+      "env": ""
     }
   ],
 
@@ -607,7 +725,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "THIS IS HAPPENING",
@@ -617,7 +737,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "This Is Not Happening"
+      "perk": "This Is Not Happening",
+      "item": "",
+      "env": ""
     },
     {
       "name": "THE LAST PLACE YOU LOOK",
@@ -627,7 +749,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Chest"
     },
     {
       "name": "DARK SENSES",
@@ -637,7 +761,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Dark Sense"
+      "perk": "Dark Sense",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "LIFE GIVER",
@@ -647,7 +773,9 @@
       "isKiller": 0,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "FIGHT BACK",
@@ -657,7 +785,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Pallet"
     },
     {
       "name": "CLAUDETTE'S DETERMINATION",
@@ -667,7 +797,9 @@
       "isKiller": 0,
       "isSingleTrial": true,
       "character": "Claudette Morel",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "HUNGRY JAWS",
@@ -677,7 +809,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "The Trapper",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "SIX FEET UNDER",
@@ -687,7 +821,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Basement"
     },
     {
       "name": "BLOODY GOOD",
@@ -697,7 +833,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "MECHANICAL OBSESSION",
@@ -707,7 +845,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": "Generator"
     },
     {
       "name": "GOT YOU",
@@ -717,7 +857,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "BRUTAL BREAKER",
@@ -727,7 +869,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Brutal Strength"
+      "perk": "Brutal Strength",
+      "item": "",
+      "env": "Generator;Pallet"
     },
     {
       "name": "DARKLY OBSESSED",
@@ -737,7 +881,9 @@
       "isKiller": 1,
       "isSingleTrial": false,
       "character": "",
-      "perk": ""
+      "perk": "",
+      "item": "",
+      "env": ""
     },
     {
       "name": "AGITATED ADVANTAGE",
@@ -747,7 +893,9 @@
       "isKiller": 1,
       "isSingleTrial": true,
       "character": "",
-      "perk": "Agitation"
+      "perk": "Agitation",
+      "item": "",
+      "env": "Basement"
     }
   ]
 }
